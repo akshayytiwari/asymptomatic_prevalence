@@ -17,7 +17,8 @@ suppressPackageStartupMessages({
 
 # 1. Loading data
 ```{r, warning=FALSE}
-setwd("~/ubuntu_research/Research/adjusting asymptomatic proportion/data/ncp")
+setwd("/path/to/be/specified")
+# Change this path to the directory where your data file is stored on your system.
 df = read.csv('./data.csv', header = TRUE)
 
 ```
