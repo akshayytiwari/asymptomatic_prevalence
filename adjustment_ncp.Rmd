@@ -18,8 +18,9 @@ suppressPackageStartupMessages({
 # 1. Loading data
 ```{r, warning=FALSE}
 setwd("/path/to/be/specified")
-# Change this path to the directory where your data file is stored on your system.
-df = read.csv('./data.csv', header = TRUE)
+# Change this path to the directory where a data file will be stored on your system
+df = read.csv('./data.csv', header = TRUE)  
+# The data file can be downbloaded from this repository
 
 ```
 
