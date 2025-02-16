@@ -1,4 +1,4 @@
-country,article,Geographic scope,Start date,End date,n,sp,rho_c,asym_sp,psi_c,phi_c,alpha,beta,psi_t,adj
+country,article,Geographic scope,Start date,End date,n,sp,rho_c,asym_sp,psi_c,phi_c,alpha,beta,psi,eta
 Brazil,Menezes et al.,N,"Jun 21, 20","Jun 24, 20",31869,849,0.027,103,0.121,0.578,0.85,1,0.29,136.14
 Brazil,Maura da Silva et al.,S,"Jul 27, 20","Aug 8, 20",3156,1167,0.37,320,0.274,0.445,0.892,0.997,0.47,72.54
 Brazil,Terças-Trettel,S,"Sep 16, 20","Oct 15, 20",4206,526,0.125,247,0.47,0.214,0.974,0.985,0.55,16.84
