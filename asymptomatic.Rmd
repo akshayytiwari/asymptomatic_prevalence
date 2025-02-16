@@ -1,6 +1,5 @@
 ---
 title: "Accurate estimation of the prevalence of asymptomatic SARS-CoV-2 infections from population-based surveys"
-output: word_document
 ---
 
 ```{r setup, include=FALSE}
